@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Artem</h1>
 <h3 align="center">A passionate back end developer from Ukraine</h3>
 
-- 🌱 I’m currently learning **pandas, binance-python, psycopg2, pytelegrambotapipostgresql, zabbix**
+- 🌱 I’m currently learning **pandas, binance-python, psycopg2, pytelegrambotapi, postgresql, zabbix**
 
 - 📫 How to reach me **nakreseideliona@gmail.com**
 
