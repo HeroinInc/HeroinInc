@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Artem</h1>
-<h3 align="center">A back/front end developer from Ukraine</h3>
+<h3 align="center">A web developer from Ukraine</h3>
 
-- 🌱 I’m currently learning **nodejs, websockets, mongodb**
+- 🌱 I’m currently learning **nestjs**
 
 - 📫 How to reach me **nakreseideliona@gmail.com**
 
